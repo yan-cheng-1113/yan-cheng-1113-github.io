@@ -155,10 +155,10 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Dean's List
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-09 - 2022-12, 2023-09 - 2024-05'
+# awards:
+#   - title: Dean's List
+#     # url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2021-09 - 2022-12, 2023-09 - 2024-05'
 #     awarder: Coursera
 #     icon: coursera
 #     summary: |
