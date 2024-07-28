@@ -45,6 +45,8 @@ profiles:
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
+  - icon: ai/cv
+    url: https://drive.google.com/file/d/1EmmyeRwQMM0tpAxE-tk64UooVefrmTVB/view?usp=sharing
 
 interests:
   - Machine Learning
@@ -184,4 +186,4 @@ awards:
 
 ## About Me
 
-Hi! I am Yancheng Zhu, an undergrad majoring in CS and Math at [UW-Madison](https://www.wisc.edu/). 
+Hi! I am Yancheng Zhu, an undergrad majoring in CS and Math at [UW-Madison](https://www.wisc.edu/). Currently, I'm investigating how to design a truthful mechanism that can reduce the effects of misinformation from social media, under the guidance of [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/) and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I implemented programs which generate best-response sequences of agents in different game settings. 
