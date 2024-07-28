@@ -10,15 +10,15 @@ main:
 
   - name: Research
     url: /#research
-    weight: 10
+    weight: 11
 
   - name: Publications
     url: /#pubs
-    weight: 10
+    weight: 12
   
   - name: Posts
     url: /#posts
-    weight: 10
+    weight: 13
   # - name: Papers
   #   url: /#papers
   #   weight: 11
