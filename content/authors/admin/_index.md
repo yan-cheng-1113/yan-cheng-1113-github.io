@@ -46,7 +46,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
   - icon: academicons/cv
-    url: https://drive.google.com/file/d/1EmmyeRwQMM0tpAxE-tk64UooVefrmTVB/view?usp=sharing
+    url: uploads/CV.pdf
 
 interests:
   - Machine Learning
