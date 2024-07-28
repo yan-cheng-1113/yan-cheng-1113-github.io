@@ -33,15 +33,15 @@ sections:
         #   size: cover
         #   position: center
         #   parallax: false
-  - block: markdown
-    id: research
-    content:
-      title: 'Research'
-      subtitle: ''
-      text: |-
-        Coming soon...
-    design:
-      columns: '1'
+  # - block: markdown
+  #   id: research
+  #   content:
+  #     title: 'Research'
+  #     subtitle: ''
+  #     text: |-
+  #       Coming soon...
+  #   design:
+  #     columns: '1'
   # - block: collection
   #   id: papers
   #   content:
