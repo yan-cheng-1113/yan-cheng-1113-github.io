@@ -77,8 +77,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Computer Science & Math
     institution: University of Wisconsin-Madison
-    date_start: 2021-09
-    date_end: 2024-12
+    date_start: 2021-09-01
+    date_end: 2024-12-31
     summary: |
       GPA: 3.97/4.0
       
