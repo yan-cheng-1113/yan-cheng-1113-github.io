@@ -77,7 +77,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Computer Science & Math
     institution: University of Wisconsin-Madison
-    year: 2024
+    # year: 2024
     summary: |
       GPA: 3.97/4.0
       
