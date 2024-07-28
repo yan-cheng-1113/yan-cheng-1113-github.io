@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    id: posts
+    id: research
     content:
       title: 'Research'
       subtitle: ''
