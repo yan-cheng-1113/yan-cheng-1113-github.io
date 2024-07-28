@@ -6,6 +6,7 @@
 # Appearance
 appearance:
   mode: system
+  color: sky
 
   theme_day: minimal
   theme_night: minimal

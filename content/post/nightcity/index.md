@@ -20,7 +20,7 @@ authors:
 
 Here are some pictures taken in the game [Cyberpunk 2077](https://www.cyberpunk.net/us/en/):
 
-<img src="featured.jpg" alt="nc1" width="800"/>
+<img src="nc1.jpg" alt="nc1" width="800"/>
 
 <img src="nc2.jpg" alt="nc2" width="800"/>
 
