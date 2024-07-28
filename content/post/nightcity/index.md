@@ -14,11 +14,6 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-image:
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
 ---
