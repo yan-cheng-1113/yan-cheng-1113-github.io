@@ -9,5 +9,5 @@ sections:
   - block: markdown
     content:
       title: Mechanism Design
-      text: Coming up...
+      text: Imagine there are two influencers on the Internet, to be continued...
 ---
