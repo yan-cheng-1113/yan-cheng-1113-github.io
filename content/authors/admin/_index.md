@@ -45,7 +45,7 @@ profiles:
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
-  - icon: ai/cv
+  - icon: academicons/cv
     url: https://drive.google.com/file/d/1EmmyeRwQMM0tpAxE-tk64UooVefrmTVB/view?usp=sharing
 
 interests:
