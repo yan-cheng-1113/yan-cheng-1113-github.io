@@ -3,7 +3,7 @@ title: Influncer War 0
 subtitle: A simple motivating example
 
 # Date published
-date: 2024-08-02
+date: 2024-08-01
 
 # Date updated
 lastmod: '2024-08-02T11:46:00Z'
