@@ -31,7 +31,14 @@ We ran best-response dynamics using the 1-d verison of the game. Here we showcas
 The game converges at Big choosing {{< math >}}$ 10 ${{< /math >}} and Small choosing {{< math >}}$ -10 ${{< /math >}}, suggesting that the converging points of the game seem to be closely related to the standard deviation {{< math >}}$ \sigma ${{< /math >}}. We fixed other parameters and ran more best-response simulations with different {{< math >}}$ \sigma ${{< /math >}}, here are the results :
 <figure>
   <img src="table1.jpg" alt="table1"/>
+  <figcaption>When two players are assigned with the same standard deviation.</figcaption>
 </figure>
 In the table, {{< math >}}$ x^{\dagger}_{1} ${{< /math >}} and {{< math >}}$ x^{\dagger}_{2} ${{< /math >}} represent {{< math >}}$ B ${{< /math >}} and {{< math >}}$ S ${{< /math >}}, respectively. {{< math >}}$ s_{1} ${{< /math >}} is {{< math >}}$ \sigma_{b} ${{< /math >}} and {{< math >}}$ s_{2} ${{< /math >}} is {{< math >}}$ \sigma_{s} ${{< /math >}}. We can observe that when the same standard deviation is applied, the convergence of the game is dominated by this value.
+
+There are also experiments where {{< math >}}$ \sigma_{b} ${{< /math >}} ({{< math >}}$ s_{b} ${{< /math >}} ) and {{< math >}}$ \sigma_{s} ${{< /math >}} ({{< math >}}$ s_{2} ${{< /math >}}) are different. 
+<figure>
+  <img src="table2.jpg" alt="table2"/>
+  <figcaption>Two players with different standard deviations.</figcaption>
+</figure>
 
 It is not yet clear whether the game under this setting, when extended to {{< math >}}$ n ${{< /math >}} players, is still a potential game. 
