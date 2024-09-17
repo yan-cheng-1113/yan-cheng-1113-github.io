@@ -34,20 +34,20 @@ In this game, when {{< math >}}$ \varepsilon > \frac{1}{n} ${{< /math >}}, influ
 
 <figure>
   <img src="N(1,1).png" alt="N(1,1)"/>
-  <figcaption>The game with N(1,1) as the distribution, and agents have targets at -30, -10, 5, 20, 40.</figcaption>
+  <figcaption>The game with N(1,1) as the distribution, and agents' targets at -30, -10, 5, 20, 40.</figcaption>
 </figure>
 
 <figure>
   <img src="n=4N(1,1).png" alt="n=4"/>
-  <figcaption>The game with N(1,1) as the distribution, and agents have targets at -30, -10, 5, 20.</figcaption>
+  <figcaption>The game with N(1,1) as the distribution, and agents' targets at -30, -10, 5, 20.</figcaption>
 </figure>
 
 <figure>
   <img src="n=4N(1,1)_1.png" alt="same target"/>
-  <figcaption>The game with N(1,1) as the distribution, and agents have targets all locate at 5.</figcaption>
+  <figcaption>The game with N(1,1) as the distribution, and agents‘ targets all at 5.</figcaption>
 </figure>
 
 <figure>
   <img src="N(0,1).png" alt="n=4"/>
-  <figcaption>The game with N(0,1) as the distribution, and agents have targets at -20, -10, 10, 20.</figcaption>
+  <figcaption>The game with N(0,1) as the distribution, and agents' targets at -20, -10, 10, 20.</figcaption>
 </figure>
