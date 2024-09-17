@@ -41,4 +41,4 @@ There are also experiments where {{< math >}}$ \sigma_{b} ${{< /math >}} ({{< ma
   <figcaption>Two players with different standard deviations.</figcaption>
 </figure>
 
-It is not yet clear whether the game under this setting, when extended to {{< math >}}$ n ${{< /math >}} players, is still a potential game. 
+Although the BRD converges to pure NE, it is not yet clear whether the game under this setting is still a potential game. 
