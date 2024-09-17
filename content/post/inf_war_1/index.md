@@ -29,10 +29,25 @@ Here, {{< math >}}$ i^\star ${{< /math >}} denotes the biggest "cheater" in the 
 In this game, when {{< math >}}$ \varepsilon > \frac{1}{n} ${{< /math >}}, influencers can reach a strict Nash Equilibrium by reporting the same point. The game can also converge at a state where influencers try to cheat, but not that much so that they do not become the biggest cheater. Here are some examples of agents' behaviors under BRD:
 <figure>
   <img src="sigma=0.png" alt="sig=0"/>
-  <figcaption>The game with N(1,0) as the distribution</figcaption>
+  <figcaption>The game with N(1,0) as the distribution.</figcaption>
 </figure>
 
 <figure>
   <img src="N(1,1).png" alt="N(1,1)"/>
-  <figcaption>The game with N(1,1) as the distribution and agents have targets at -30, -10, 5, 20, 40</figcaption>
+  <figcaption>The game with N(1,1) as the distribution, and agents have targets at -30, -10, 5, 20, 40.</figcaption>
+</figure>
+
+<figure>
+  <img src="n=4N(1,1).png" alt="n=4"/>
+  <figcaption>The game with N(1,1) as the distribution, and agents have targets at -30, -10, 5, 20.</figcaption>
+</figure>
+
+<figure>
+  <img src="n=4N(1,1)_1.png" alt="same target"/>
+  <figcaption>The game with N(1,1) as the distribution, and agents have targets all locate at 5.</figcaption>
+</figure>
+
+<figure>
+  <img src="N(0,1).png" alt="n=4"/>
+  <figcaption>The game with N(0,1) as the distribution, and agents have targets at -20, -10, 10, 20.</figcaption>
 </figure>
