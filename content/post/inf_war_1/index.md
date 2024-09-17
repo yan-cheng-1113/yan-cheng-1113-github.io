@@ -26,4 +26,13 @@ And {{< math >}}$ \hat{x} ${{< /math >}} represents the average of all reports; 
 
 Here, {{< math >}}$ i^\star ${{< /math >}} denotes the biggest "cheater" in the game, which is the agent that deviates the most from its peers in a direction that is favorable to itself. This particular {{< math >}}$ f ${{< /math >}} excludes the biggest "cheating" influncer's report and moves {{< math >}}$ v ${{< /math >}} in the direction that harms the interest of this cheating agent. 
 
-We now consider a special case {{< math >}}$ \sigma = 0 ${{< /math >}}, that is all the agents get {{< math >}}$ \mu ${{< /math >}} when the game starts.
+In this game, when {{< math >}}$ \varepsilon > \frac{1}{n} ${{< /math >}}, influencers can reach a strict Nash Equilibrium by reporting the same point. The game can also converge at a state where influencers try to cheat, but not that much so that they do not become the biggest cheater. Here are some examples of agents' behaviors under BRD:
+<figure>
+  <img src="sigma=0.png" alt="sig=0"/>
+  <figcaption>The game with N(1,0) as the distribution</figcaption>
+</figure>
+
+<figure>
+  <img src="N(1,1).png" alt="N(1,1)"/>
+  <figcaption>The game with N(1,1) as the distribution and agents have targets at -30, -10, 5, 20, 40</figcaption>
+</figure>
