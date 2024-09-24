@@ -1,6 +1,6 @@
 ---
 # Page title
-title: temp
+title: Research
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -13,6 +13,7 @@ sections:
     
     design:
       view: compact
+      columns: '1'
 
       # This [file](static/uploads/Influencer_War.pdf) summarizes current results.
 ---
