@@ -17,8 +17,8 @@ featured: false
 authors:
   - admin
 ---
-
-Here are some pictures taken in the game [Cyberpunk 2077](https://www.cyberpunk.net/us/en/):
+[Cyberpunk 2077](https://www.cyberpunk.
+Here are some pictures taken in the game net/us/en/):
 
 <img src="nc1.jpg" alt="nc1" width="800"/>
 

@@ -12,13 +12,14 @@ main:
     url: research/
     weight: 11
 
-  - name: Publications
-    url: /#pubs
-    weight: 12
+  # - name: Publications
+  #   url: /#pubs
+  #   weight: 12
   
-  - name: Posts
-    url: /#posts
-    weight: 13
+  # - name: Posts
+  #   url: /#posts
+  #   weight: 13
+
   # - name: Papers
   #   url: /#papers
   #   weight: 11
