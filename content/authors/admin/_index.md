@@ -86,41 +86,28 @@ interests:
   #     - Linear Optimization
   #     - Integer Optimization
 work:
-  -position: Undegraduate TA
-   company_name: CS540
-   company_url: https://pages.cs.wisc.edu/~yw/CS540F24.html
-   date_start: 2024-09-01
-   date_end: ''
-
-  -position: Math Tutor at [Math Learning Center]
-   company_name: Math Learning Center
-   company_url: https://math.wisc.edu/undergraduate/mlc/
-   date_start: 2022-09-01
-   date_end: ''
-
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Undegraduate TA
+    company_name: CS540
+    company_url: 'https://pages.cs.wisc.edu/~yw/CS540F24.html'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: ''
+    # summary: |2-
+      # Responsibilities include:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Math Tutor
+    company_name: Math Learning Center
+    company_url: 'https://math.wisc.edu/undergraduate/mlc/'
+    company_logo: ''
+    date_start: 2022-09-01
+    date_end: ''
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
