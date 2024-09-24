@@ -86,7 +86,7 @@ interests:
   #     - Linear Optimization
   #     - Integer Optimization
 work:
-  - position: Undegraduate TA at UW-Madison
+  - position: Undergraduate TA at UW-Madison
     company_name: CS540 - Introduction to AI
     company_url: https://pages.cs.wisc.edu/~yw/CS540F24.html
     company_logo: ''
