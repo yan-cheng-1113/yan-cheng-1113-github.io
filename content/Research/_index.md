@@ -1,9 +1,11 @@
 ---
-title: Publications
+title: Research
 cms_exclude: true
 
+type: landing
+
 # View.
-view: citation
+view: compact
 
 # Optional header image (relative to `static/media/` folder).
 banner:
