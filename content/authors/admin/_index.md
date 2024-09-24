@@ -86,9 +86,9 @@ interests:
   #     - Linear Optimization
   #     - Integer Optimization
 work:
-  - position: Undegraduate TA
-    company_name: CS540
-    company_url: 'https://pages.cs.wisc.edu/~yw/CS540F24.html'
+  - position: Undegraduate TA 
+    company_name: CS540 - Introduction to AI
+    company_url: https://pages.cs.wisc.edu/~yw/CS540F24.html
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
@@ -99,7 +99,7 @@ work:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Math Tutor
     company_name: Math Learning Center
-    company_url: 'https://math.wisc.edu/undergraduate/mlc/'
+    company_url: https://math.wisc.edu/undergraduate/mlc/
     company_logo: ''
     date_start: 2022-09-01
     date_end: ''
