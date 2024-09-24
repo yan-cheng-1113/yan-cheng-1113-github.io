@@ -85,7 +85,7 @@ interests:
   #     - Algorithmic Game Theory & Mechanism Design
   #     - Linear Optimization
   #     - Integer Optimization
-Teaching:
+work:
   -position: Undegraduate TA
    company_name: CS540
    company_url: https://pages.cs.wisc.edu/~yw/CS540F24.html
