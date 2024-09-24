@@ -11,5 +11,5 @@ sections:
       title: Influencer War
       text: In today's digital landscape, news travels swiftly around the world. Countless content creators share their perspectives with the public, ranging from major broadcast networks to news agencies. However, due to diverse interests, the manner in which the same event is reported can differ significantly from one agency to another. In our project, we consider broadcasting companies and social media influencers as players in a general-sum game. Our goal is to design a truthful mechanism that minimizes the biases present in the content they produce.
 
-      This [file](uploads/Influencer_War.pdf) summarizes current results.
+      # This [file](static/uploads/Influencer_War.pdf) summarizes current results.
 ---
