@@ -54,7 +54,7 @@ interests:
   - Online Learning
   - Decision Making
 
-education:
+# education:
   # - area: PhD Artificial Intelligence
   #   institution: Stanford University
   #   date_start: 2016-01-01
@@ -75,16 +75,29 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BS Computer Science & Math
-    institution: University of Wisconsin-Madison
-    # year: 2024
-    summary: |
-      GPA: 3.97/4.0
+  # - area: BS Computer Science & Math
+  #   institution: University of Wisconsin-Madison
+  #   # year: 2024
+  #   summary: |
+  #     GPA: 3.97/4.0
       
-      Courses included:
-      - Algorithmic Game Theory & Mechanism Design
-      - Linear Optimization
-      - Integer Optimization
+  #     Courses included:
+  #     - Algorithmic Game Theory & Mechanism Design
+  #     - Linear Optimization
+  #     - Integer Optimization
+Teaching:
+  -position: Undegraduate TA
+   company_name: CS540
+   company_url: https://pages.cs.wisc.edu/~yw/CS540F24.html
+   date_start: 2024-09-01
+   date_end: ''
+
+  -position: Math Tutor at [Math Learning Center]
+   company_name: Math Learning Center
+   company_url: https://math.wisc.edu/undergraduate/mlc/
+   date_start: 2022-09-01
+   date_end: ''
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
