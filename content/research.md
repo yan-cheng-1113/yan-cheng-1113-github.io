@@ -17,7 +17,7 @@ sections:
         folders:
           - papers
     design:
-      view: 
+      view: citation
       fill_image: false
       columns: 1
 ---

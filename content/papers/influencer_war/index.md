@@ -20,7 +20,7 @@ publishDate: "2024-09-07T00:00:00Z"
 abstract: In today's digital landscape, news travels swiftly around the world. Countless content creators share their perspectives with the public, ranging from major broadcast networks to news agencies. However, due to diverse interests, the manner in which the same event is reported can differ significantly from one agency to another. In our project, we consider broadcasting companies and social media influencers as players in a general-sum game. Our goal is to design a truthful mechanism that minimizes the biases present in the content they produce.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We try to design a truthful mechanism that makes social media agents produce unbiased reports.
 
 tags:
 - Game Theory
@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: 'Influencer_War.pdf'
+url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
