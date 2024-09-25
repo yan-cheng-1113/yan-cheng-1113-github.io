@@ -19,8 +19,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Yancheng Zhu's academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Yancheng Zhu'
+    # twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
