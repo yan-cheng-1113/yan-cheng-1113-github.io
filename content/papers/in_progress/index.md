@@ -11,7 +11,7 @@ authors:
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Working Project"]
+# publication_types: ["Working Project"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
@@ -25,7 +25,7 @@ abstract: In today's digital landscape, news travels swiftly around the world. C
 tags:
 - Game Theory
 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

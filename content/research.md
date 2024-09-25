@@ -1,16 +1,23 @@
 ---
-# Page title
-title: Research
-# Page type - we want a landing page (such as a homepage)
+title: 'Research'
+date: 2024-05-19
 type: landing
 
-view: compact
+design:
+  # Section spacing
+  spacing: '5rem'
 
-# Your landing page sections - add as many different content blocks as you like
+# Page sections
 sections:
-  - block: markdown
+  - block: collection
     content:
-      title: Influencer War
-      text: In today's digital landscape, news travels swiftly around the world. Countless content creators share their perspectives with the public, ranging from major broadcast networks to news agencies. However, due to diverse interests, the manner in which the same event is reported can differ significantly from one agency to another. In our project, we consider broadcasting companies and social media influencers as players in a general-sum game. Our goal is to design a truthful mechanism that minimizes the biases present in the content they produce.
-      # This [file](static/uploads/Influencer_War.pdf) summarizes current results.
+      title: Research Projects
+      text: ''
+      filters:
+        folders:
+          - papers
+    design:
+      view: compact
+      fill_image: false
+      columns: 1
 ---
