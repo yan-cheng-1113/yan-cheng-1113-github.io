@@ -36,11 +36,10 @@ sections:
   - block: markdown
     id: Newton
     content:
-      title: 
+      title: ''
       subtitle: ''
       text: 
-        
-        <span style="color:red">red</span>
+        <span style="font-family:Georgia;">Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.</span>
     design:
       columns: '1'
   # - block: collection
