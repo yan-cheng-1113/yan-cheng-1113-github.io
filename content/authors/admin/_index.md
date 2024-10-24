@@ -47,8 +47,8 @@ profiles:
   - icon: academicons/cv
     url: uploads/CV.pdf
 
-# Role/position/tagline
-role: Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.
+# # Role/position/tagline
+# role: 
 
 interests:
   - Machine Learning
