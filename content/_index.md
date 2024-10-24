@@ -39,7 +39,7 @@ sections:
       title: ''
       subtitle: ''
       text: 
-        <span style="font-family:Alex Bush;font-size: 1em;">Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.</span>
+        <span style="font-family:Alex Bush;font-size:1em;">Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.</span>
     design:
       columns: '1'
   # - block: collection
