@@ -38,8 +38,8 @@ sections:
     content:
       title: 
       subtitle: ''
-      text: |-
-        Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.
+      text: 
+        <span style="font-family: Rose">Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.</span>
     design:
       columns: '1'
   # - block: collection
