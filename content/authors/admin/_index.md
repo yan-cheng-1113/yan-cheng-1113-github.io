@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate at UW-Madison
+role: Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
