@@ -19,8 +19,7 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.
+
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,6 +46,9 @@ profiles:
   #   url: https://orcid.org/
   - icon: academicons/cv
     url: uploads/CV.pdf
+
+# Role/position/tagline
+role: Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.
 
 interests:
   - Machine Learning
