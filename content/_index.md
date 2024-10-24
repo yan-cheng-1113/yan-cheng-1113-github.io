@@ -39,7 +39,8 @@ sections:
       title: 
       subtitle: ''
       text: 
-        <span style="font-family: Rose">Superest ut ex iisdem principiis doceamus constitutionem Systematis Mundani.</span>
+        
+        <span style="color:red">red</span>
     design:
       columns: '1'
   # - block: collection
