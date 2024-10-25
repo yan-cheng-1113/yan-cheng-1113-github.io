@@ -187,4 +187,4 @@ work:
 
 ## About Me
 
-Hi! I am Yancheng Zhu, an undergrad majoring in CS and Math at [UW-Madison](https://www.wisc.edu/). Currently, I'm investigating how to design a truthful mechanism that can reduce the effects of misinformation from social media, under the guidance of [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/), [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/), and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad intersts in algorithmic game theory, multi-agent reinforcement learning, and adversarial bandits problems.
+Hi! I am Yancheng Zhu, an undergrad majoring in CS and Math at [UW-Madison](https://www.wisc.edu/). Currently, I'm investigating how to design a truthful mechanism that can reduce the effects of misinformation from social media, under the guidance of [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/), [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/), and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad intersts in algorithmic game theory, multi-agent reinforcement learning, and bandits.
