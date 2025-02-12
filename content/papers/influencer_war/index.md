@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
-- name: Arxiv
+- name: arXiv
   url: https://arxiv.org/abs/2502.01127
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
