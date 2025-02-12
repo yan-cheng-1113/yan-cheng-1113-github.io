@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Research Projects
+      title: Preprints
       text: ''
       filters:
         folders:
