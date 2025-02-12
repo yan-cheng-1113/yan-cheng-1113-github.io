@@ -1,7 +1,7 @@
 ---
 title: "The Battling Influencers Game"
 authors:
-- admin
+- Young Wu, , Jin-Yi Cai, Xiaojin Zhu
 date: "2025-01-31T00:00:00Z"
 # doi: ""
 
