@@ -1,7 +1,7 @@
 ---
 title: "The Battling Influencers Game"
 authors:
-- Young Wu, , Jin-Yi Cai, Xiaojin Zhu
+- Young Wu, Yancheng Zhu, Jin-Yi Cai, Xiaojin Zhu
 date: "2025-01-31T00:00:00Z"
 # doi: ""
 
@@ -11,7 +11,7 @@ publishDate: "2025-01-31T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ["Working Project"]
+publication_types: ["Preprint"]
 
 # Publication name and optional abbreviated publication name.
 # publication: ""
