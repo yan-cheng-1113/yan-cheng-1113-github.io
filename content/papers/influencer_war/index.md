@@ -1,5 +1,5 @@
 ---
-title: "The Influencers' War"
+title: "The Battling Influencers Game"
 authors:
 - admin
 date: "2024-09-07T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2024-09-20T00:00:00Z"
 # publication: ""
 # publication_short: ""
 
-abstract: This technical report presents an ongoing research project at UW-Madison that employs a game-theoretic approach to analyze the behaviors of social media influencers in various game settings. The primary objective is to design a mechanism that incentivizes these influencers to provide unbiased reports to their audience. By modeling influencers and broadcasting companies as players in a general-sum game, the study aims to minimize biases in the content produced. The report delves into concepts such as Nash Equilibrium and best-response dynamics, illustrating how these can be applied to achieve a pure Nash Equilibrium in potential games. Empirical results are provided to demonstrate the effects of different parameters on players’ decisions. Additionally, the report explores a mechanism with punishment to deter cheating behaviors among influencers, ensuring more truthful reporting. The findings contribute to the broader understanding of strategic interactions in digital media and offer insights into promoting unbiased information dissemination.
+abstract: When multiple influencers attempt to compete for a receiver’s attention, their influencing strategies must account for the presence of one another. We introduce the Battling Influencers Game (BIG), a multi-player simultaneous-move general-sum game, to provide a game-theoretic characterization of this social phenomenon. We prove that BIG is a potential game, that it has either one or an infinite number of pure Nash equilibria (NEs), and these pure NEs can be found by convex optimization. Interestingly, we also prove that at any pure NE, all (except at most one) influencers must exaggerate their actions to the maximum extent. In other words, it is rational for the influencers to be non-truthful and extreme because they anticipate other influencers to cancel out part of their influence. We discuss the implications of BIG to value alignment.
 
 # Summary. An optional shortened abstract.
-summary: We try to design a truthful mechanism that makes social media agents produce unbiased reports.
+# summary:
 
 tags:
-- Game Theory
+- Game Theory, Value Alignment
 
 featured: false
 
