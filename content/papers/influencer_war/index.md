@@ -23,7 +23,8 @@ abstract: When multiple influencers attempt to compete for a receiver’s attent
 summary: We introduce the Battling Influencers Game (BIG), a multi-player simultaneous-move general-sum game, to provide a game-theoretic characterization of strategic influencers' behaviors.
 
 tags:
-- Game Theory, Value Alignment 
+- Game Theory
+- Value Alignment
 
 featured: false
 
