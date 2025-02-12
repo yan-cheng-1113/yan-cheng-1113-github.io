@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Custom Link
+  url: https://arxiv.org/abs/2502.01127
 url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
