@@ -40,8 +40,8 @@ profiles:
     url: https://github.com/yan-cheng-1113
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yancheng-zhu-297123226/?trk=opento_sprofile_goalscard
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=wUUojfEAAAAJ&hl=en&oi=sra
   # - icon: academicons/orcid
   #   url: https://orcid.org/
   - icon: academicons/cv
@@ -187,4 +187,4 @@ work:
 
 ## About Me
 
-Hi! I am Yancheng Zhu, an undergrad majoring in CS and Math at [UW-Madison](https://www.wisc.edu/). Currently, I'm investigating how to design a truthful mechanism that can reduce the effects of misinformation from social media, under the guidance of [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/), [Prof. Kirthevasan Kandasamy](https://pages.cs.wisc.edu/~kandasamy/), and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad intersts in algorithmic game theory, reinforcement learning, and bandit problems.
+Hi, I am Yancheng Zhu! I got my bachelor's degree from [UW-Madison](https://www.wisc.edu/), where I was fortunate to work with [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/) and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad intersts in algorithmic game theory, machine learning, and foundation models.

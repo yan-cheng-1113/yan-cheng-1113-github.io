@@ -1,5 +1,5 @@
 ---
-title: "The Battling Influencers Game"
+title: "The Battling Influencers Game: Nash Equilibria Structure of a Potential Game and Implications to Value Alignment"
 authors:
 - Young Wu
 - admin
