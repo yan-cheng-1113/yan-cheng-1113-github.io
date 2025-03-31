@@ -187,4 +187,4 @@ work:
 
 ## About Me
 
-Hi, I am Yancheng Zhu! I got my bachelor's degree from [UW-Madison](https://www.wisc.edu/), where I was fortunate to work with [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/) and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad intersts in algorithmic game theory, machine learning, and foundation models.
+Hi, I am Yancheng Zhu! I got my bachelor's degree from [UW-Madison](https://www.wisc.edu/), where I was fortunate to work with [Prof. Jerry Zhu](https://pages.cs.wisc.edu/~jerryzhu/) and [Dr.Young Wu](https://pages.cs.wisc.edu/~yw/). I have broad interests in algorithmic game theory, machine learning, and foundation models.
